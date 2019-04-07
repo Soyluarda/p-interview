@@ -1,0 +1,13 @@
+backports.functools-lru-cache==1.5
+BeautifulSoup==3.2.1
+beautifulsoup4==4.7.1
+certifi==2019.3.9
+chardet==3.0.4
+Django==1.11.20
+idna==2.8
+lxml==4.3.3
+pytz==2018.9
+requests==2.21.0
+soupsieve==1.9
+urllib3==1.24.1
+
