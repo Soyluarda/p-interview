@@ -3,7 +3,7 @@ BeautifulSoup==3.2.1
 beautifulsoup4==4.7.1
 certifi==2019.3.9
 chardet==3.0.4
-Django==1.11.20
+Django==1.11.23
 idna==2.8
 lxml==4.3.3
 pytz==2018.9
